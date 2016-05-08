@@ -1,3 +1,7 @@
+name: Stanley International
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.43673
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.01140475
-  brandStrength: 0.9489796
-  lightness: 0.9815592
   brandColors:
     - '#1F273C'
     - '#608468'
     - '#DAD6D3'
     - '#525357'
     - '#892237'
-  rhythmicContrast: 0.5352852
-typography_spectrum: 0.8678002
-layout_spectrum: 0.1776936
-name: Stanley International
+  brandStrength: 0.5625
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.5
+purpose: []
